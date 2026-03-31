@@ -4,7 +4,7 @@ This project showcases an interactive sales dashboard built in Looker Studio to 
 ### 🔗 Live Dashboard  
 [View Interactive Dashboard]([https://lookerstudio.google.com/s/vTSejjizMbE](https://lookerstudio.google.com/s/vg6q6LB5m-U))
 ## 📊 Dashboard Preview  
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](sales-dashboard-lookerstudio.png)
 
 ---
 
