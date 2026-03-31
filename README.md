@@ -3,7 +3,7 @@ Built an interactive Looker Studio dashboard to analyze sales performance, ident
 This project showcases an interactive sales dashboard built in Looker Studio to analyze performance across regions, product categories, and time. The goal was to translate raw sales data into clear, actionable insights.
 ### 🔗 Live Dashboard  
 [View Interactive Dashboard]([https://lookerstudio.google.com/s/vTSejjizMbE](https://lookerstudio.google.com/s/vg6q6LB5m-U))
-## 📊 Dashboard Preview  
+## Dashboard Preview  
 ![Dashboard Overview](sales-dashboard-lookerstudio.png)
 
 ---
