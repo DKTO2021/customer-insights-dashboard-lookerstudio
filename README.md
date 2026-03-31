@@ -8,7 +8,7 @@ This project showcases an interactive sales dashboard built in Looker Studio to 
 
 ---
 
-## 📈 Key Features  
+## Key Features  
 - Sales performance by region (North, West, etc.)  
 - Monthly sales trend analysis  
 - Profit by product category  
@@ -17,7 +17,7 @@ This project showcases an interactive sales dashboard built in Looker Studio to 
 
 ---
 
-## 🧠 Key Insights  
+## Key Insights  
 - North region generated the highest sales (~3.5K), outperforming other regions  
 - Sales activity shows fluctuations with spikes earlier in the year  
 - Stationery category leads in profit compared to furniture  
@@ -26,11 +26,11 @@ This project showcases an interactive sales dashboard built in Looker Studio to 
 
 ---
 
-## 🛠 Tools Used  
+## Tools Used  
 - Looker Studio  
 - Excel (data preparation)  
 
 ---
 
-## 💡 Design Approach  
+## Design Approach  
 Focused on clarity and usability by structuring the dashboard to highlight key metrics, reduce cognitive load, and support quick decision-making.
